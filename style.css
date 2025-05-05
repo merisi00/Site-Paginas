@@ -31,13 +31,13 @@ main {
 }
 
 body {
-    background-color: #f4f4f4; /* Cor padrão para a página inicial */
+    background-color: #f4f4f4; 
 }
 
 body.pagina1 {
-    background-color: #ffcccb; /* Cor de fundo para a página 1 */
+    background-color: #ffcccb; 
 }
 
 body.pagina2 {
-    background-color: #add8e6; /* Cor de fundo para a página 2 */
+    background-color: #add8e6; 
 }
